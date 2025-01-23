@@ -7,16 +7,16 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{29A14614-A398-400E-A837-85E7EBC51AFB}</ProjectGuid>
+    <ProjectGuid>{E7C179C0-0EEF-4227-BEDA-0E285A170D96}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tu_3_1</RootNamespace>
-    <AssemblyName>Tu_3_1</AssemblyName>
+    <RootNamespace>A2_Que2</RootNamespace>
+    <AssemblyName>A2_Que2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
-    <IISExpressSSLPort>44355</IISExpressSSLPort>
+    <IISExpressSSLPort>44322</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
@@ -67,16 +67,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AdRotatorExample.aspx" />
+    <Content Include="A2_Que2.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdRotatorExample.aspx.cs">
-      <DependentUpon>AdRotatorExample.aspx</DependentUpon>
+    <Compile Include="A2_Que2.aspx.cs">
+      <DependentUpon>A2_Que2.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="AdRotatorExample.aspx.designer.cs">
-      <DependentUpon>AdRotatorExample.aspx</DependentUpon>
+    <Compile Include="A2_Que2.aspx.designer.cs">
+      <DependentUpon>A2_Que2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -102,9 +102,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>64364</DevelopmentServerPort>
+          <DevelopmentServerPort>50241</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>https://localhost:44355/</IISUrl>
+          <IISUrl>https://localhost:44322/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
